@@ -1,4 +1,4 @@
-# Professional README
+# Professional README App.
 The common needs and pains in writting a standard README file for projects , assigments and research works was the pressing factor for creating this app,
 "Prefessional README App".So, getting something readily available for users was a strong desire.It affords the users, a platform to have a professional Readme file for their need. It saves financial and time resources in soughting for a file that meet the needs.
 In the course of the developemnt of this Application , a lot was learnt which include but not linmited to;
