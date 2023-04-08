@@ -1,0 +1,15 @@
+{
+  "name": "professional_readme_app_task",
+  "version": "1.0.0",
+  "description": "It has been observed that there are several (potential) app developers and project writers that are struggling with wrtting professional README.md; either for their personal or group projects or just looking for app that would save them time/effort fo creating professional README file. \r This \"Professional README file answers this need. Just follow the procedure on the Documents and you will get your desired result.\r It basically works from user's input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
